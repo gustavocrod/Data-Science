@@ -18,7 +18,7 @@ Artificial Intelligence, Machine Leaning, Data Science and Cyber Security enthus
 ## Projects:
 
 
-* **[Titanic: Machine Leaning from Disaster]** (https://github.com/gustavocrod/Data-Science/blob/master/Titanic/Titanic.ipynb)
+* **[Titanic: Machine Leaning from Disaster](https://github.com/gustavocrod/Data-Science/blob/master/Titanic/Titanic.ipynb)**
 
 ---
 
