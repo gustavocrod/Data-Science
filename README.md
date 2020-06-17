@@ -20,7 +20,7 @@ Artificial Intelligence, Machine Leaning, Data Science and Cyber Security enthus
 
 * **[Titanic: Machine Leaning from Disaster](https://github.com/gustavocrod/Data-Science/blob/master/Titanic/Titanic.ipynb)**
 
-* **As cidades universitárias (EUA) têm seus os preços médios de residências menos afetados durante recessões?**
+* **[As cidades universitárias (EUA) têm seus os preços médios de residências menos afetados durante recessões?](https://github.com/gustavocrod/Data-Science/blob/master/Housing%20Price/housing_price.ipynb)**
 
 
 ---
