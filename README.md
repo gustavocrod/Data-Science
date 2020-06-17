@@ -9,7 +9,7 @@
 
 Artificial Intelligence, Machine Leaning, Data Science and Cyber Security enthusiast.
 
-**Background in:** Python, Machine Learning, C, Game Design.
+**Background in:** Python, Machine Learning, C.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gustavo-rodrigues-959291110/)
@@ -19,6 +19,9 @@ Artificial Intelligence, Machine Leaning, Data Science and Cyber Security enthus
 
 
 * **[Titanic: Machine Leaning from Disaster](https://github.com/gustavocrod/Data-Science/blob/master/Titanic/Titanic.ipynb)**
+
+* **As cidades universitárias (EUA) têm seus os preços médios de residências menos afetados durante recessões?**
+
 
 ---
 
