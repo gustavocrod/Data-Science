@@ -22,7 +22,7 @@ Artificial Intelligence, Machine Leaning, Data Science and Cyber Security enthus
 
 * **[As cidades universitárias (EUA) têm seus os preços médios de residências menos afetados durante recessões?](https://github.com/gustavocrod/Data-Science/blob/master/Housing%20Price/assigment4_statistical_analisys_in_python.ipynb)**
 
-* **[Recordes Metereológicos de 2005 a 2014 quebrados em 2015 - Região de Ann Arbor, Michigan](https://github.com/gustavocrod/Data-Science/blob/master/Metereology/Assignment2.ipynb)**
+* **[Recordes Metereológicos de 2005 a 2014 quebrados em 2015 - Região de Ann Arbor, Michigan](https://github.com/gustavocrod/Data-Science/blob/master/Meteorology/Assignment2.ipynb)**
 
 ---
 
