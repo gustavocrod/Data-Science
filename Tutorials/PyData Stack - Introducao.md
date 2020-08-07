@@ -84,8 +84,7 @@ para resolverem uma grande gama de tarefas, incluindo... advinha?
  Entretanto, se você já tem familiaridade com outras linguagens 
  de programação (e.g. C, C#, JS) você conseguirá aprender 
  Python tranquilamente. Já que os conceitos de programação são 
- (a maioria) os mesmos, só muda a sintaxe. Então ok, 
- here we go.
+ (a maioria) os mesmos, só muda a sintaxe. Então ok, asas batendo, marcha de decolagem, turbinas e JÁ!!!
 
 <p align="center">
   <img src="https://media2.giphy.com/media/XoW4aVP3LhBaoB7FuJ/giphy.gif?cid=ecf05e47h5c9hetigy5l4ya5crypfzlhtq3uuam78awt00fa&rid=giphy.gif" width="480" height="270" >
