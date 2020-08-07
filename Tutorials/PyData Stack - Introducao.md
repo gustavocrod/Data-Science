@@ -40,7 +40,7 @@ mas vamos por partes como diria o Jack. Olhe um exemplo:
 
 
 <p align="center">
-  <img src="images_gifs/hackable.png" width="400" height="200">
+  <img src="images_gifs/nasa_hack.png" width="400" height="200">
 </p>
 
 <p align="center">
