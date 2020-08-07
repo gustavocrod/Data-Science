@@ -40,16 +40,16 @@ mas vamos por partes como diria o Jack. Olhe um exemplo:
 
 
 <p align="center">
-  <img src="images_gifs/nasa_hack.png" width="400" height="200">
+  <img src="images_gifs/nasa_hack.png" width="500" height="317">
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/3knKct3fGqxhK/giphy.gif?cid=ecf05e47niiq8x4pf8utu58k2yelc4pwimg8krjwq74cau1p&rid=giphy.gif" width="500" height="600">
+  <img src="https://media1.giphy.com/media/3knKct3fGqxhK/giphy.gif?cid=ecf05e47niiq8x4pf8utu58k2yelc4pwimg8krjwq74cau1p&rid=giphy.gif" width="500" height="283">
 </p>
 
 
 Viu o exemplo? Com apenas três linhas de código a NASA foi hackeada. 
-<p align="left">
+<p align="right">
   <img src="images_gifs/kappa.png_large" width="100" height="100" >
 </p>
 
@@ -66,7 +66,7 @@ qualquer outra plataforma também.
 
 
 <p align="center">
-  <img src="images_gifs/burgues.jpg" width="400" height="400" >
+  <img src="images_gifs/burgues.jpg" width="480" height="270" >
 </p> 
     
 
@@ -88,7 +88,7 @@ para resolverem uma grande gama de tarefas, incluindo... advinha?
  here we go.
 
 <p align="center">
-  <img src="images_gifs/oh_shit.jpg" width="400" height="400" >
+  <img src="https://media2.giphy.com/media/XoW4aVP3LhBaoB7FuJ/giphy.gif?cid=ecf05e47h5c9hetigy5l4ya5crypfzlhtq3uuam78awt00fa&rid=giphy.gif" width="480" height="270" >
 </p>
 
 ------
