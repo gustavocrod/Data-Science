@@ -32,7 +32,7 @@ códigos e dados, uma linguagem de propósito geral,
  ([eu acho que isso ném é uma linguagem](https://www.youtube.com/watch?v=VfeXuzJRalM)), ou então o PYTHON :heart_eyes:, 
  se elencam como linguagens alternativas ao R.
 
-Sabemos que C é muiot poderoso, mas talvez por ser um pouco mais baixo nível que o Python, fez com 
+Sabemos que C é muito poderoso, mas talvez por ser um pouco mais baixo nível que o Python, fez com 
 que Python se sobressaísse como uma ótima alternativa ao R, 
 nas implementações de soluções baseadas em dados, 
 justamente por sua simplicidade e poder já que ele também aproveita-se do C, 
@@ -100,10 +100,6 @@ pouco, dependendo do material em que você está estudando,
 então vamos nos ater apenas aos mais utilizados 
 (que aparecem na maioria dos papers/tutoriais). 
 
-    
-#### NumPy
+## Índice
 
-
-    
-
-
+- [NumPy](#https://github.com/gustavocrod/Data-Science/tree/master/Tutorials/numpy.md)
