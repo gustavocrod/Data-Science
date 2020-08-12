@@ -72,9 +72,12 @@ para resolverem uma grande gama de tarefas, incluindo... advinha?
  Isso mesmo mãe Dináh, **Data Science** e **Analytics**.
 
 ------
-    
- - Esse guia, tutorial ou elo job, como você preferir chamar, 
- não é recomendado pra iniciantes em Python. 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Ve5vfhwsox2G3bJ44O/giphy.gif" height="100">
+</p> 
+
+ - Esse guia não é recomendado pra iniciantes em Python. 
  Entretanto, se você já tem familiaridade com outras linguagens 
  de programação (e.g. C, C#, JS) você conseguirá aprender 
  Python tranquilamente. Já que os conceitos de programação são 
