@@ -96,4 +96,4 @@ então vamos nos ater apenas aos mais utilizados
 
 ## Índice
 
-- [NumPy](#https://github.com/gustavocrod/Data-Science/tree/master/Tutorials/numpy.md)
+- [NumPy](https://github.com/gustavocrod/Data-Science/tree/master/Tutorials/numpy.md)
