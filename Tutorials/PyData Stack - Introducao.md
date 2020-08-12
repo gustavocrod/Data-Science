@@ -6,7 +6,7 @@ A área de análise estatísticas e ciência teve, por muito tempo,
 o R como _linguagem oficial_ de programação. 
 Certo, sabemos que esse tal de R é tri bom e tals, 
 que é bem produtivo, mas esse negócio nitidamente é de nicho. 
-E como pode então crescer uma área (DataScience) se comunicando 
+E como pode então, crescer uma área (DataScience) se comunicando 
 apenas no seu mundinho e não nos campos mais amplos? - to 
 falando da área de desenvolvimento de software aqui - 
 O que quero dizer, é que nenhum projeto relacionado a dados 
@@ -32,12 +32,11 @@ códigos e dados, uma linguagem de propósito geral,
  ([eu acho que isso ném é uma linguagem](https://www.youtube.com/watch?v=VfeXuzJRalM)), ou então o PYTHON :heart_eyes:, 
  se elencam como linguagens alternativas ao R.
 
-Sabemos que C é muito poderoso, mas talvez por ser um pouco mais baixo nível que o Python, fez com 
-que Python se sobressaísse como uma ótima alternativa ao R, 
-nas implementações de soluções baseadas em dados, 
-justamente por sua simplicidade e poder já que ele também aproveita-se do C, 
+Sabemos que C é muito poderoso, mas talvez por ser um pouco mais baixo nível e de codificação "mais complexa" que o Python, fez com 
+que Python se sobressaísse como uma ótima alternativa ao R para 
+implementações de soluções baseadas em dados. Isso ocorre principalmente por sua simplicidade - *código em inglês estruturado* - e poder - 
+*aproveita-se de bibliotecas escritas em C/C++*, 
 mas vamos por partes como diria o Jack. Olhe um exemplo:
-
 
 <p align="center">
   <img src="images_gifs/nasa_hack.png" width="500" height="317">
@@ -48,32 +47,27 @@ mas vamos por partes como diria o Jack. Olhe um exemplo:
 </p>
 
 
-Viu o exemplo? Com apenas três linhas de código a NASA foi hackeada. 
-<p align="right">
-  <img src="images_gifs/kappa.png_large" width="100" height="100" >
-</p>
+Viu o exemplo? Com apenas três linhas de código a NASA foi hackeada. <img src="images_gifs/kappa.png_large" width="100" height="100" >
+
 
 ----- 
 
 Brincadeiras a parte, é extremamente simples de ler e entender um código Python 
-(principalmente por ele não utilizar brackets e por obrigar a identação), 
-já que ele é apenas um inglês com lógica XD. Python também é 
+(principalmente por ele não utilizar brackets e por obrigar a identação). Python também é 
 _cross platform_ assim como esses jogos como Fortnite e Rocket League, o que quer 
-dizer que tu pode escrever um código nesse teu Linux porque 
-tu é rasker, nesse teu windows aí pirata, ou mesmo num macOS - 
+dizer que, tu pode escrever um código nesse teu Linux (porque 
+tu é *rasker*), nesse teu Windows aí (que pegou do Perigo), ou mesmo num macOS - 
 _Se tu se encaixa no último caso o André Mathias tem um olhar pra ti_ - e executar em
 qualquer outra plataforma também.
-
 
 <p align="center">
   <img src="images_gifs/burgues.jpg" width="480" height="270" >
 </p> 
-    
 
 E um dos **fatores mais importantes** que contribuiu para que o Python se torna-se uma ótima 
 alternatina ao R, é que diferente do teu time na rankeada, 
 Python tem uma grande comunidade que contribui pro avanço e 
-melhoria da mesma, construindo vários pacotes e bibliotecas 
+melhoria da mesma, construindo vários pacotes e bibliotecas (muitas delas em C/C++ como mencionado) 
 para resolverem uma grande gama de tarefas, incluindo... advinha?
  Isso mesmo mãe Dináh, **Data Science** e **Analytics**.
 
