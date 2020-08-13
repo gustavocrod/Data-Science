@@ -21,9 +21,9 @@ Artificial Intelligence, Machine Leaning, Data Science and Cyber Security enthus
 
 - Exploração do 'Hello World' de Data Science:
   - Visualização de correlações entre: 
-    - Sexo e probabilidade de viver;
-    - Idade e probabilidade de viver;
-    - Local de embarque e probabilidade de viver;
+    * Sexo e probabilidade de viver;
+    * Idade e probabilidade de viver;
+    * Local de embarque e probabilidade de viver;
   - Modelo preditivo sobre "teria vivivo ou não ao desastre?".
 
 **[As cidades universitárias (EUA) têm seus os preços médios de residências menos afetados durante recessões?](https://github.com/gustavocrod/Data-Science/blob/master/Housing%20Price/assignment4.ipynb)** :house: :dollar:
