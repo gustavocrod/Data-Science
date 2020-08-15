@@ -37,6 +37,11 @@ Artificial Intelligence, Machine Leaning, Data Science and Cyber Security enthus
 - Análise temporal sobre as temperaturas e recordes de temperatura no período de 2005 a 2014 em Ann Arbor, Michigan.
 - Visualização dos recordes metereológicos deste período, que foram quebrados no ano de 2015, também nessa região.
 
+**[Análise exploratória dos dados de ligações de emergência - 911, em 2016 - Região do Condado de Montgomery, Condado na Pensilvânia](https://github.com/gustavocrod/Data-Science/blob/master/Calls%20911/chama%20a%20pulica.ipynb)** :police_car: :ambulance: :fire_engine:
+
+- Análise exploratória utilizando PyData Stack
+- DataViz com Seaborn para visualização dos picos de horários onde mais ocorreram ligações de emergência, sendo de tráfego, saúde ou incêndio.
+
 ---
 
 
