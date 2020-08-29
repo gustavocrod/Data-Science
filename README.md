@@ -55,7 +55,7 @@ Artificial Intelligence, Machine Leaning, Data Science and Cyber Security enthus
 - Discussão dos coeficientes para embasar a resposta sobre qual solução utilizar no contexto: app ou website
 
 
-**Data Scraping and Data viz - What's the Biggest Soccer Club of Rio Grande do Sul/Brazil - According to the Number of Championships Won (From birth to 2019)(https://github.com/gustavocrod/Data-Science/blob/master/Maior%20do%20Sul/biggest_team.ipynb)** :red_circle::white_circle: VS :large_blue_circle::black_circle:
+**[Data Scraping and Data viz - What's the Biggest Soccer Club of Rio Grande do Sul/Brazil - According to the Number of Championships Won (From birth to 2019)](https://github.com/gustavocrod/Data-Science/blob/master/Maior%20do%20Sul/biggest_team.ipynb)** :red_circle::white_circle: VS :large_blue_circle::black_circle:
 
 - Extração de dados da Wikipedia
 - Análise exploratória com PyData Stack
