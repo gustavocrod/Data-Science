@@ -5,11 +5,9 @@
 </p>
 
 # Gustavo Rodrigues
-<sub>*Computer Science Student* at Universidade Federal do Pampa</sub>
+<sub>Sênior Data Engineer</sub>
 
-Artificial Intelligence, Machine Leaning, Data Science and Cyber Security enthusiast.
-
-**Background in:** Python, Machine Learning, C.
+**Background in:** Computer Science, Python, Machine Learning, C.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gustavo-rodrigues-959291110/)
